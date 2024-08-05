@@ -1,0 +1,14 @@
+C:\Users\LithiumXP\EncontrarMayorApp\bin\Debug\net8.0\EncontrarMayorApp.exe
+C:\Users\LithiumXP\EncontrarMayorApp\bin\Debug\net8.0\EncontrarMayorApp.deps.json
+C:\Users\LithiumXP\EncontrarMayorApp\bin\Debug\net8.0\EncontrarMayorApp.runtimeconfig.json
+C:\Users\LithiumXP\EncontrarMayorApp\bin\Debug\net8.0\EncontrarMayorApp.dll
+C:\Users\LithiumXP\EncontrarMayorApp\bin\Debug\net8.0\EncontrarMayorApp.pdb
+C:\Users\LithiumXP\EncontrarMayorApp\obj\Debug\net8.0\EncontrarMayorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LithiumXP\EncontrarMayorApp\obj\Debug\net8.0\EncontrarMayorApp.AssemblyInfoInputs.cache
+C:\Users\LithiumXP\EncontrarMayorApp\obj\Debug\net8.0\EncontrarMayorApp.AssemblyInfo.cs
+C:\Users\LithiumXP\EncontrarMayorApp\obj\Debug\net8.0\EncontrarMayorApp.csproj.CoreCompileInputs.cache
+C:\Users\LithiumXP\EncontrarMayorApp\obj\Debug\net8.0\EncontrarMayorApp.dll
+C:\Users\LithiumXP\EncontrarMayorApp\obj\Debug\net8.0\refint\EncontrarMayorApp.dll
+C:\Users\LithiumXP\EncontrarMayorApp\obj\Debug\net8.0\EncontrarMayorApp.pdb
+C:\Users\LithiumXP\EncontrarMayorApp\obj\Debug\net8.0\EncontrarMayorApp.genruntimeconfig.cache
+C:\Users\LithiumXP\EncontrarMayorApp\obj\Debug\net8.0\ref\EncontrarMayorApp.dll
